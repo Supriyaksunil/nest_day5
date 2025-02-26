@@ -1,6 +1,9 @@
 ul {
-    background-color: lavender;
+    background-color: rgb(133, 27, 133);
     list-style: none;
     padding: 20px;
     cursor: pointer;
+}
+li{
+    color: white;
 }
